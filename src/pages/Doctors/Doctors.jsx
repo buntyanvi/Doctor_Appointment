@@ -80,10 +80,7 @@ const Doctors = () => {
                     What our patients says
                   </h2>
                   <p className="text__para text-center">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing 
-                    elit. Beatae aliquid quibusdam perferendis <br></br>
-                    quam ullam optio impedit fuga, vitae enim reiciendis! 
-                    Soluta quae rem natus perspiciatis 
+                  something, or other, enduring even more than an option, prevents escape, life seems reappearing. That solution, born from scrutiny, remains 
                   </p>
                 </div>
                 <Testimonial />

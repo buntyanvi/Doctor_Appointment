@@ -27,10 +27,10 @@ const About = () => {
                         Proud to be one of the nations best
                     </h2>
                     <p className="text__para">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio deserunt debitis quam, officiis impedit, quas consequuntur libero eius non consequatur delectus tenetur nihil, consectetur ullam. Odit perspiciatis laboriosam possimus dolore!
+                    We are honored to be recognized as one of the nation's best. Our commitment to excellence drives us to achieve remarkable results and deliver unparalleled services. 
                     </p>
                     <p className="text__para mt-[30px]">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente eius non molestiae quasi, illo voluptas tempora amet doloremque velit rem nam officia distinctio consectetur saepe porro unde vero similique. Eius?
+                    Wisdom does not necessarily mean avoiding discomfort. Sometimes, embracing challenges leads to greater rewards. It’s often the temporary struggles that pave the way for lasting value and success
                     </p>
 
                     <Link to='/'>

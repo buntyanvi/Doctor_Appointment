@@ -35,7 +35,7 @@ const Home = () => {
                       We help patients live a healthy, longer life.
                     </h1>
                     <p className='text__para'>
-                      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur mollitia eveniet ipsum aperiam illum. Fuga quam assumenda repellendus enim tempore facilis, error veniam, vitae, tempora nostrum quaerat similique repellat. Aperiam?
+                    Diligence and dedication illuminate the path to success. Escaping challenges and embracing responsibilities allow us to grow and thrive. Errors and setbacks may arise, but with persistence and a clear vision, we overcome obstacles and achieve our goals. Shall we proceed
                     </p>
                     <Link to="/doctors">
                         <button className='btn'>Request an Appointment</button>
@@ -216,10 +216,7 @@ const Home = () => {
                 Our Medical Services
               </h2>
               <p className="text__para text-center">
-                Lorem ipsum dolor, sit amet consectetur adipisicing 
-                elit. Beatae aliquid quibusdam perferendis <br></br>
-                quam ullam optio impedit fuga, vitae enim reiciendis! 
-                Soluta quae rem natus perspiciatis 
+              Blessed are those who seek fulfillment rather than escape, for they find solutions and opportunities amidst challenges. These moments of clarity reveal the true path forward 
               </p>
             </div>
             <ServicesList />
@@ -312,10 +309,7 @@ const Home = () => {
                     Our Great Doctors
                   </h2>
                   <p className="text__para text-center">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing 
-                    elit. Beatae aliquid quibusdam perferendis <br></br>
-                    quam ullam optio impedit fuga, vitae enim reiciendis! 
-                    Soluta quae rem natus perspiciatis 
+                  Blessed are those who seek excellence rather than escape, for they find solutions and opportunities amidst challenges. These moments of clarity reveal the true path forward 
                   </p>
                 </div>
                 <DoctorList />
@@ -350,10 +344,7 @@ const Home = () => {
                     What our patients says
                   </h2>
                   <p className="text__para text-center">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing 
-                    elit. Beatae aliquid quibusdam perferendis <br></br>
-                    quam ullam optio impedit fuga, vitae enim reiciendis! 
-                    Soluta quae rem natus perspiciatis 
+                  Blessed are those who seek excellence rather than escape, for they find solutions and opportunities amidst challenges. These moments of clarity reveal the true path forward 
                   </p>
                 </div>
                 <Testimonial />

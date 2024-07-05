@@ -41,7 +41,7 @@ const Testimonial = () => {
                         <div>
                             <h2 className="leading-[30px] text-lg font-semibold
                             text-headingColor">
-                                Aldo Lata Soba
+                                John travis
                             </h2>
                             <div className="flex items-center gap-[2px]">
                                 <HiStar className='text-yellowColor w-[18px] h-5' />
@@ -53,9 +53,8 @@ const Testimonial = () => {
                         </div>
                     </div>
                     <p className='text-base leading-7 mt-4 text-textColor font-normal'>
-                        "Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                        Quisquam quaerat quidem quasi, quibusdam quod quaerat 
-                        quasi, quibusdam quod quaerat quasi, quibusdam quod quaerat"
+                        &quot;Anyone can demand and almost achieve results, but true excellence comes from consistently going above and beyond. 
+                        It is through dedication and effort that we transform ordinary tasks into extraordinary achievements.&quot;
                     </p>
                 </div>
             </SwiperSlide>
@@ -69,7 +68,7 @@ const Testimonial = () => {
                         <div>
                             <h2 className="leading-[30px] text-lg font-semibold
                             text-headingColor">
-                                Aldo Lata Soba
+                                John watson
                             </h2>
                             <div className="flex items-center gap-[2px]">
                                 <HiStar className='text-yellowColor w-[18px] h-5' />
@@ -81,9 +80,7 @@ const Testimonial = () => {
                         </div>
                     </div>
                     <p className='text-base leading-7 mt-4 text-textColor font-normal'>
-                        "Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                        Quisquam quaerat quidem quasi, quibusdam quod quaerat 
-                        quasi, quibusdam quod quaerat quasi, quibusdam quod quaerat"
+                        "Anyone can demand and nearly achieve results, but true excellence comes from consistently going above and beyond. It is through dedication and effort that we transform ordinary tasks into extraordinary achievements"
                     </p>
                 </div>
             </SwiperSlide>
@@ -97,7 +94,7 @@ const Testimonial = () => {
                         <div>
                             <h2 className="leading-[30px] text-lg font-semibold
                             text-headingColor">
-                                Aldo Lata Soba
+                                John
                             </h2>
                             <div className="flex items-center gap-[2px]">
                                 <HiStar className='text-yellowColor w-[18px] h-5' />
@@ -109,9 +106,7 @@ const Testimonial = () => {
                         </div>
                     </div>
                     <p className='text-base leading-7 mt-4 text-textColor font-normal'>
-                        "Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                        Quisquam quaerat quidem quasi, quibusdam quod quaerat 
-                        quasi, quibusdam quod quaerat quasi, quibusdam quod quaerat"
+                        "One might seek and almost attain excellence, yet it’s through persistent effort and dedication that we truly excel. Consistently striving to go beyond the norm, we transform ordinary tasks into extraordinary accomplishments"
                     </p>
                 </div>
             </SwiperSlide>

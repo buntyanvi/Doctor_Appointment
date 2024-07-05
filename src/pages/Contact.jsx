@@ -8,7 +8,7 @@ const Contact = () => {
           Contact Us
         </h2>
         <p className="mb-8 lg:mb-16 font-light text-center text__para">
-          Ayo hubungi kami disini, jika kamu ada kendala
+        Hey, contact us here if you encounter any issues
         </p>
         <form action="#" className='space-y-8'>
           <div>
